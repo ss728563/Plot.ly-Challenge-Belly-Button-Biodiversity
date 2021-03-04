@@ -1,6 +1,4 @@
-// Belly Button Biodiversity - Plotly.js
-
-fvar data;
+var data;
 
 //init function to fill in the select option
 
